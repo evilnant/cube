@@ -5,7 +5,8 @@
 	margin-top: 140px;
 }
 body{
-	background: rgba( 71, 225, 249, 0.608 )
+	background: rgba( 71, 225, 249, 0.608 );
+	background: red;
 }
 
 .cube{
